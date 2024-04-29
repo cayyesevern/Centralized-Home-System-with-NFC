@@ -1,0 +1,1 @@
+Students can acquire knowledge of chemical equipment operation through an Android app, which has been developed using Java and Python. They have the flexibility to access their preferred course materials on TV using BLE and NFC technology.
